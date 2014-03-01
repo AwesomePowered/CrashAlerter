@@ -1,0 +1,4 @@
+WaitTime: 60
+Mail:
+    sendTo: HelpMe@hotmail.com
+    AlertMessage: Your Awesome Server Has Crashed!!!

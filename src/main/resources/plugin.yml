@@ -1,0 +1,4 @@
+name: CrashAlerter
+author: [Double0negative,LaxWasHere]
+main: net.awesomepowered.crashalerter.CrashAlerter
+version: 1.0
